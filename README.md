@@ -30,4 +30,15 @@ This project is intended for research purposes only and is not a substitute for 
 -----------------------------------------------------------------------------------------------------------------
 
 ## Setup
-Link : https://drive.google.com/file/d/1YP4zk7f0UGo6EiwFbtI6qS350J5fXaRT/view?usp=drive_link
+Primary Data Downlaod Link : https://drive.google.com/file/d/1YP4zk7f0UGo6EiwFbtI6qS350J5fXaRT/view?usp=drive_link
+
+## Folder Structure
+|
+|_ 1_Audio Feature Extraction
+|______ audio_lanzhou
+|__________ 02010001
+|__________ 02010002
+|
+|
+|_ 2_EEG
+|_____ EEG_3channels_resting_lanzhou
