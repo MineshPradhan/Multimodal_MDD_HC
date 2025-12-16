@@ -44,6 +44,8 @@ https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 
 |__________ 02010001
 
+|_______________ .wav
+
 |__________ 02010002
 
 |
@@ -53,6 +55,28 @@ https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 |_ 2_EEG
 
 |_____ EEG_3channels_resting_lanzhou
+
+|__________ 02010001_still.txt
+
+|__________ 02010002_still.txt
+
+|_____ EEG_128channels_ERP_lanzhou
+
+|__________ 02010002erp 20150416 1131.raw
+
+|__________ 02010004erp 20141219 1602.raw
+
+|_____ EEG_128channels_resting_lanzhou
+
+|__________ 02010002rest 20150416 1017.mat
+
+|__________ 02010004rest 20150427 1335.mat
+
+|
+
+|
+
+|_ 3_data_integration_and_classification
 
 
 -> 1_Audio Feature Extraction
