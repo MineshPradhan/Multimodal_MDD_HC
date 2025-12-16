@@ -42,3 +42,8 @@ Primary Data Downlaod Link : https://drive.google.com/file/d/1YP4zk7f0UGo6EiwFbt
 |
 |_ 2_EEG
 |_____ EEG_3channels_resting_lanzhou
+
+-> 1_Audio Feature Extraction
+->->-> audio_lanzhou
+->->->->-> 02010001
+->->->->-> 02010002
