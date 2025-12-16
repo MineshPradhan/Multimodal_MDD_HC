@@ -34,14 +34,23 @@ Primary Data Downlaod Link : https://drive.google.com/file/d/1YP4zk7f0UGo6EiwFbt
 
 ## Folder Structure
 |
+
 |_ 1_Audio Feature Extraction
+
 |______ audio_lanzhou
+
 |__________ 02010001
+
 |__________ 02010002
+
 |
+
 |
+
 |_ 2_EEG
+
 |_____ EEG_3channels_resting_lanzhou
+
 
 -> 1_Audio Feature Extraction
 ->->-> audio_lanzhou
