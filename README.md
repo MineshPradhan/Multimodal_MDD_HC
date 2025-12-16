@@ -38,7 +38,7 @@ https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 ## Folder Structure
 |
 
-|_ 1_Audio Feature Extraction
+## |_ 1_Audio Feature Extraction
 
 |______ audio_lanzhou
 
@@ -50,9 +50,7 @@ https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 
 |
 
-|
-
-|_ 2_EEG
+## |_ 2_EEG
 
 |_____ EEG_3channels_resting_lanzhou
 
@@ -74,9 +72,7 @@ https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 
 |
 
-|
-
-|_ 3_data_integration_and_classification
+## |_ 3_data_integration_and_classification
 
 
 -> 1_Audio Feature Extraction
