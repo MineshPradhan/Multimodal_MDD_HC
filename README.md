@@ -26,3 +26,5 @@ Traditional depression diagnosis relies heavily on subjective assessments. This 
 
 ## ⚠️ Disclaimer
 This project is intended for research purposes only and is not a substitute for professional medical diagnosis.
+
+-----------------------------------------------------------------------------------------------------------------
