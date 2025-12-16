@@ -36,9 +36,8 @@ Primary Data Downlaod Link : https://drive.google.com/file/d/1YP4zk7f0UGo6EiwFbt
 https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 
 ## Folder Structure
-|
 
-## |_ 1_Audio Feature Extraction
+## 1_Audio Feature Extraction
 
 ### |______ audio_lanzhou
 
@@ -48,9 +47,7 @@ https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 
 |__________ 02010002
 
-|
-
-## |_ 2_EEG
+## 2_EEG
 
 ### |_____ EEG_3channels_resting_lanzhou
 
@@ -70,9 +67,7 @@ https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 
 |__________ 02010004rest 20150427 1335.mat
 
-|
-
-## |_ 3_data_integration_and_classification
+## 3_data_integration_and_classification
 
 
 -> 1_Audio Feature Extraction
