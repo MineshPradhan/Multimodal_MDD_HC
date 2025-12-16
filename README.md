@@ -36,6 +36,7 @@ Primary Data Downlaod Link : https://drive.google.com/file/d/1YP4zk7f0UGo6EiwFbt
 https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 
 ## Folder Structure
+Arrange the downloaded Dataset according to the given folder structure and do not tamper the files that are outside.
 
 ## 1_Audio Feature Extraction
 
@@ -68,14 +69,3 @@ https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
 |__________ 02010004rest 20150427 1335.mat
 
 ## 3_data_integration_and_classification
-
-
--> 1_Audio Feature Extraction
-->->-> audio_lanzhou
-->->->->-> 02010001
-->->->->-> 02010002
-
-- 1_Audio Feature Extraction
------ audio_lanzhou
----------- 02010001
----------- 02010002
