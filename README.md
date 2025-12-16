@@ -32,6 +32,9 @@ This project is intended for research purposes only and is not a substitute for 
 ## Setup
 Primary Data Downlaod Link : https://drive.google.com/file/d/1YP4zk7f0UGo6EiwFbtI6qS350J5fXaRT/view?usp=drive_link
 
+## Streamlit Dashboard Link
+https://multimodal-mddhc-app-cpahejyamwhcv6wsqjpsty.streamlit.app
+
 ## Folder Structure
 |
 
